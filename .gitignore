@@ -1,0 +1,11 @@
+# Ignore Zephyr build output
+/lvgl_2048_zephyr/build/
+/lvgl_2048_zephyr/out/
+/lvgl_2048_zephyr/CMakeFiles/
+/lvgl_2048_zephyr/CMakeCache.txt
+/lvgl_2048_zephyr/cmake_install.cmake
+/lvgl_2048_zephyr/compile_commands.json
+
+# Ignore VSCode workspace settings
+.vscode/
+/lvgl_2048_zephyr/.vscode
